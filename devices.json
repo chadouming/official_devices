@@ -1527,5 +1527,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "name": "Google Pixel 3a XL",
+      "brand": "Google",
+      "codename": "bonito",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Chad Cormier Roussel",
+            "maintainer_url": "https://github.com/chadouming",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
